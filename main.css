@@ -1,0 +1,15 @@
+body {
+    background-color: grey;
+}
+
+text{
+    font-family: Arial, sans-serif;
+}
+
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
